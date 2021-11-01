@@ -1,0 +1,25 @@
+{
+  "name": "eprint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OverSkyLight/Eprint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OverSkyLight/Eprint/issues"
+  },
+  "homepage": "https://github.com/OverSkyLight/Eprint#readme",
+  "dependencies": {
+    "next": "^12.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
